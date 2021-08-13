@@ -1,85 +1,108 @@
 {
-  "": [
-    {
-      "id": "vHf22Ea3b",
-      "type": null,
-      "slug": "CRADLE-OF-HUMANKIND",
-      "name": "CRADLE OF HUMANKIND",
-      "desc": "The Cradle of Humankind lies mainly in the Gauteng province with a small extension into the neighboring North West Province, and covers 47 000 hectares of land mostly privately owned. The Site comprises a strip of a dozen dolomitic limestone caves containing the fossillised remains of ancient forms of animals, plants and most importantly, hominids. The dolomite in which the caves formed, started out as coral reefs growing in a worm shallow sea about 2.3 billion years ago.",
-      "location": "The Cradle of Humankind is a paleoanthropological site 50 kilometres northwest of Johannesburg, Gauteng, South Africa",
-      "photos": ["https://www.sa-venues.com/attractions/gallery/gauteng/419/2.jpg","https://www.sa-venues.com/attractions/gallery/gauteng/419/3.jpg","https://www.sa-venues.com/attractions/gallery/gauteng/419/1.jpg","https://www.outlookindia.com/outlooktraveller/resizer.php?src=https://www.outlookindia.com/outlooktraveller/public/uploads/articles/explore/GettyImages-470799099.jpg&w=500&h=400"]
-    },
-    {
-      "id": "fPu15Ds4r",
-      "type": null,
-      "slug": "RHINO-LION-NATURE-RESERVE",
-      "name": "RHINO AND LION NATURE RESERVE",
-      "desc": "Set in the heart of the Cradle of Humankind, the Rhino and Lion Nature Reserve lies roughly 40 kilometres north-west of Johannesburg and offers a chance to see white rhino, lion, buffalo, hippo and other species of game up close and within half an hour of the major Johannesburg metropolis.",
-      "location": "Rhino and Lion Nature Reserve, Krugersdorp, Gauteng",
-      "photos": ["https://www.sa-venues.com/attractions/gallery/gauteng/425/2.jpg","https://www.sa-venues.com/attractions/gallery/gauteng/425/2.jpg",]
-    },
-    {
-      "id": "tIa5Ro8o",
-      "type": null,
-      "slug": "HUNTERS-REST-GOLF-COURSE",
-      "name": "HUNTERS REST GOLF COURSE",
-      "desc": "The North West Province has a number of little gems, despite its being relatively quiet in terms of tourism and industry. With breath-taking views of the Magaliesberg Mountain Range, and the added advantage of an excellent climate, the Hunters Rest Golf Course in Rustenburg is just about perfect.\n\nThanks to its being a short course, Hunters Rest is great for golfers on a time budget, or for those that enjoy a faster pace. No matter what kind of game you prefer, the views are always sure to impress. In fact, the aesthetic loveliness of the surrounds mean that your game can be as relaxing or challenging as you like, as long as you are having a good time.",
-      "location": "",
-      "photos": "https://www.sa-venues.com/golf/gallery/1428/1.jpg"
-    },
-    {
-      "id": "iUb28We5w",
-      "type": null,
-      "slug": "MADIKWE-GAME-RESERVE",
-      "name": "MADIKWE GAME RESERVE",
-      "desc": "The Madikwe Game Reserve covers about 680 square kilometres (750 square kilometres if we include the newly-incorporated private land) of gorgeous bush. It is just north of the little town of Groot Marico and stretches all the way up to the Botswana border. This is about 4.5 hours‚Äô drive or a one-hour flight from Johannesburg.",
-      "location": "Madikwe Game Reserve, Madikwe, 2865, North West Province, South Africa",
-      "photos": ["https://www.sa-venues.com/attractions/gallery/northwest/53/1.jpg", "https://www.sa-venues.com/attractions/gallery/northwest/53/9.jpg"]
-    },
-    {
-      "id": "dLk26Sh7v",
-      "type": null,
-      "slug": "KGASWANE-MOUNTAIN-RESERVE",
-      "name": "KGASWANE MOUNTAIN RESERVE",
-      "desc": "The Kgaswane Mountain Reserve set in the hills above the town of Rustenburg, spans some forty-square kilometres of the Magaliesberg offering towering quartzite peaks and grassy vleis that allow visitors incredible views and some impressive hikes.",
-      "location": "Kgaswane Mountain Reserve, Rustenburg, North West Province, South Africa",
-      "photos": ["https://www.sa-venues.com/attractions/gallery/northwest/49/1.jpg", "https://www.sa-venues.com/attractions/gallery/northwest/49/2.jpg", ]
-    },
-    {
-      "id": "pTz20Eb4w",
-      "type": null,
-      "slug": "EAGLE-COVE-TRAIL",
-      "name": "EAGLE COVE TRAIL",
-      "desc": "On the same road you would travel to reach Mountain Sanctuary Park, Kumbagana Game Park lies just before the Sparkling Waters Hotel (good to know as it is a perfect spot for a good cool drink, or tea and cake en route home).\n\nThe hikes, for there are three routes all circular, trail through the Magaliesberg mountains renowned for its kloofs and ravines, unusual rock formations and mountain pools. With the added bonus of game viewing along the way.",
-      "location": "Start at Kumbagana Game Park near Rustenburg, North West Province.",
-      "photos": ["https://windybrowadventures.co.za/img/portfolio/home-hiking.jpg",]
-    },
-    {
-      "id": "cLc7Jb7z",
-      "type": null,
-      "slug": "KRANSKLOOF-TRAIL",
-      "name": "KRANSKLOOF TRAIL",
-      "desc": "Get your friends and family together, get energetic and join the Kranskloof Hiking Trail. This two day trail is approximately 18.5 kilometers long, with the first days walk being 10 kilometers and day two being 8.5 kilometers. If you do not want to stay for the full trail you can join for a day hike. The scenery is breathtaking in this part of the world and the varied terrain of the trail will allow for a great challenge. Mountains and Highveld plateaus surround you, filled with a variety of plants, shrubs and flowers.",
-      "location": "Bartletts Farm, Magaliesberg Mountains, Near Rustenberg, North West Province.",
-      "photos": ["https://www.sa-venues.com/things-to-do/northwest/gallery/3854/1.jpg"]
-    },
-    {
-      "id": "pDk23Jc7o",
-      "type": null,
-      "slug": "STERKFONTEIN-CAVES",
-      "name": "STERKFONTEIN CAVES",
-      "desc": "The Sterkfontein Caves form part of the Cradle of Humankind World Heritage Site, named by UNESCO in 1999 and part of over 47 000 hectares of privately owned land. The Sterkfontein Caves lay claim to some of the most important discoveries about man‚Äôs evolution, including the famous discovery of the hominid fossils ‚ÄúMrs Ples and ‚ÄúLittle Foot‚Äù. The caves are also well worth a visit. After something of a facelift the Sterkfontein Caves now have improved access into the caves, new walkways and a boardwalk past the excavation site, offering visitors a bird‚Äôs eye view of the spot where these famous fossils were found.",
-      "location": "Hekpoort Road, Sterkfontein, Cradle of Humankind, Gauteng, South Africa",
-      "photos": ["https://www.sa-venues.com/attractions/gallery/gauteng/147/1.jpg", ]
-    },
-    {
-      "id": "wLt33Eg7v",
-      "type": null,
-      "slug": "LESEDI-CULTURAL-VILLAGE",
-      "name": "LESEDI CULTURAL VILLAGE",
-      "desc": "If you want to get an idea of traditional South African culture, then the Lesedi cultural village, less than an hour‚Äôs drive north of Johannesburg and set amongst rocky hills and bushveld, is a perfect outing. Lesedi, which is seSotho for 'light', was initiated in 1995 as a tourist attraction and today features five traditional dwellings, each representing a South African culture: Pedi, Zulu, Xhosa, Basotho and Ndebele.\n\nEach of these families lives here permanently, looking after cows, chickens and tourists, and tours through their homes offer interesting cross-cultural comparisons of the customs and social organisation of the different cultures. The idea is quite novel. If you're staying overnight, you are welcomed by the family of the homestead in which you will be staying, and the head of the house then becomes your personal guide for the duration of your stay.",
-      "location": "Lesedi Cultural Village, Lanseria Road, Broederstroom, Hartbeespoort Dam, North West Province, South Africa",
-      "photos": ["https://www.sa-venues.com/attractions/gallery/northwest/145/1.jpg", "https://www.sa-venues.com/attractions/gallery/northwest/145/8.jpg"]
-    }
-  ]
+	"": [
+		{
+			"id": "vHf22Ea3b",
+			"type": null,
+			"slug": "CRADLE-OF-HUMANKIND",
+			"name": "CRADLE OF HUMANKIND",
+			"desc": "The Cradle of Humankind lies mainly in the Gauteng province with a small extension into the neighboring North West Province, and covers 47 000 hectares of land mostly privately owned. The Site comprises a strip of a dozen dolomitic limestone caves containing the fossillised remains of ancient forms of animals, plants and most importantly, hominids. The dolomite in which the caves formed, started out as coral reefs growing in a worm shallow sea about 2.3 billion years ago.",
+			"location": "The Cradle of Humankind is a paleoanthropological site 50 kilometres northwest of Johannesburg, Gauteng, South Africa",
+			"photos": {
+				"0": "https://www.sa-venues.com/attractions/gallery/gauteng/419/2.jpg",
+				"1": "https://www.sa-venues.com/attractions/gallery/gauteng/419/3.jpg",
+				"2": "https://www.sa-venues.com/attractions/gallery/gauteng/419/1.jpg",
+				"3": "https://www.outlookindia.com/outlooktraveller/resizer.php?src=https://www.outlookindia.com/outlooktraveller/public/uploads/articles/explore/GettyImages-470799099.jpg&w=500&h=400"
+			}
+		},
+		{
+			"id": "fPu15Ds4r",
+			"type": null,
+			"slug": "RHINO-LION-NATURE-RESERVE",
+			"name": "RHINO AND LION NATURE RESERVE",
+			"desc": "Set in the heart of the Cradle of Humankind, the Rhino and Lion Nature Reserve lies roughly 40 kilometres north-west of Johannesburg and offers a chance to see white rhino, lion, buffalo, hippo and other species of game up close and within half an hour of the major Johannesburg metropolis.",
+			"location": "Rhino and Lion Nature Reserve, Krugersdorp, Gauteng",
+			"photos": {
+				"0": "https://www.sa-venues.com/attractions/gallery/gauteng/425/2.jpg",
+				"1": "https://www.sa-venues.com/attractions/gallery/gauteng/425/2.jpg,"
+			}
+		},
+		{
+			"id": "tIa5Ro8o",
+			"type": null,
+			"slug": "HUNTERS-REST-GOLF-COURSE",
+			"name": "HUNTERS REST GOLF COURSE",
+			"desc": "The North West Province has a number of little gems, despite its being relatively quiet in terms of tourism and industry. With breath-taking views of the Magaliesberg Mountain Range, and the added advantage of an excellent climate, the Hunters Rest Golf Course in Rustenburg is just about perfect.\n\nThanks to its being a short course, Hunters Rest is great for golfers on a time budget, or for those that enjoy a faster pace. No matter what kind of game you prefer, the views are always sure to impress. In fact, the aesthetic loveliness of the surrounds mean that your game can be as relaxing or challenging as you like, as long as you are having a good time.",
+			"location": "",
+			"photos": { "0": "https://www.sa-venues.com/golf/gallery/1428/1.jpg" }
+		},
+		{
+			"id": "iUb28We5w",
+			"type": null,
+			"slug": "MADIKWE-GAME-RESERVE",
+			"name": "MADIKWE GAME RESERVE",
+			"desc": "The Madikwe Game Reserve covers about 680 square kilometres (750 square kilometres if we include the newly-incorporated private land) of gorgeous bush. It is just north of the little town of Groot Marico and stretches all the way up to the Botswana border. This is about 4.5 hours‚Äô drive or a one-hour flight from Johannesburg.",
+			"location": "Madikwe Game Reserve, Madikwe, 2865, North West Province, South Africa",
+			"photos": {
+				"0": "https://www.sa-venues.com/attractions/gallery/northwest/53/1.jpg",
+				"1": " https://www.sa-venues.com/attractions/gallery/northwest/53/9.jpg"
+			}
+		},
+		{
+			"id": "dLk26Sh7v",
+			"type": null,
+			"slug": "KGASWANE-MOUNTAIN-RESERVE",
+			"name": "KGASWANE MOUNTAIN RESERVE",
+			"desc": "The Kgaswane Mountain Reserve set in the hills above the town of Rustenburg, spans some forty-square kilometres of the Magaliesberg offering towering quartzite peaks and grassy vleis that allow visitors incredible views and some impressive hikes.",
+			"location": "Kgaswane Mountain Reserve, Rustenburg, North West Province, South Africa",
+			"photos": {
+				"0": "https://www.sa-venues.com/attractions/gallery/northwest/49/1.jpg",
+				"1": "https://www.sa-venues.com/attractions/gallery/northwest/49/2.jpg"
+			}
+		},
+		{
+			"id": "pTz20Eb4w",
+			"type": null,
+			"slug": "EAGLE-COVE-TRAIL",
+			"name": "EAGLE COVE TRAIL",
+			"desc": "On the same road you would travel to reach Mountain Sanctuary Park, Kumbagana Game Park lies just before the Sparkling Waters Hotel (good to know as it is a perfect spot for a good cool drink, or tea and cake en route home).\n\nThe hikes, for there are three routes all circular, trail through the Magaliesberg mountains renowned for its kloofs and ravines, unusual rock formations and mountain pools. With the added bonus of game viewing along the way.",
+			"location": "Start at Kumbagana Game Park near Rustenburg, North West Province.",
+			"photos": {
+				"0": "https://windybrowadventures.co.za/img/portfolio/home-hiking.jpg"
+			}
+		},
+		{
+			"id": "cLc7Jb7z",
+			"type": null,
+			"slug": "KRANSKLOOF-TRAIL",
+			"name": "KRANSKLOOF TRAIL",
+			"desc": "Get your friends and family together, get energetic and join the Kranskloof Hiking Trail. This two day trail is approximately 18.5 kilometers long, with the first days walk being 10 kilometers and day two being 8.5 kilometers. If you do not want to stay for the full trail you can join for a day hike. The scenery is breathtaking in this part of the world and the varied terrain of the trail will allow for a great challenge. Mountains and Highveld plateaus surround you, filled with a variety of plants, shrubs and flowers.",
+			"location": "Bartletts Farm, Magaliesberg Mountains, Near Rustenberg, North West Province.",
+			"photos": {
+				"0": "https://www.sa-venues.com/things-to-do/northwest/gallery/3854/1.jpg"
+			}
+		},
+		{
+			"id": "pDk23Jc7o",
+			"type": null,
+			"slug": "STERKFONTEIN-CAVES",
+			"name": "STERKFONTEIN CAVES",
+			"desc": "The Sterkfontein Caves form part of the Cradle of Humankind World Heritage Site, named by UNESCO in 1999 and part of over 47 000 hectares of privately owned land. The Sterkfontein Caves lay claim to some of the most important discoveries about man‚Äôs evolution, including the famous discovery of the hominid fossils ‚ÄúMrs Ples and ‚ÄúLittle Foot‚Äù. The caves are also well worth a visit. After something of a facelift the Sterkfontein Caves now have improved access into the caves, new walkways and a boardwalk past the excavation site, offering visitors a bird‚Äôs eye view of the spot where these famous fossils were found.",
+			"location": "Hekpoort Road, Sterkfontein, Cradle of Humankind, Gauteng, South Africa",
+			"photos": {
+				"0": "https://www.sa-venues.com/attractions/gallery/gauteng/147/1.jpg"
+			}
+		},
+		{
+			"id": "wLt33Eg7v",
+			"type": null,
+			"slug": "LESEDI-CULTURAL-VILLAGE",
+			"name": "LESEDI CULTURAL VILLAGE",
+			"desc": "If you want to get an idea of traditional South African culture, then the Lesedi cultural village, less than an hour‚Äôs drive north of Johannesburg and set amongst rocky hills and bushveld, is a perfect outing. Lesedi, which is seSotho for 'light', was initiated in 1995 as a tourist attraction and today features five traditional dwellings, each representing a South African culture: Pedi, Zulu, Xhosa, Basotho and Ndebele.\n\nEach of these families lives here permanently, looking after cows, chickens and tourists, and tours through their homes offer interesting cross-cultural comparisons of the customs and social organisation of the different cultures. The idea is quite novel. If you're staying overnight, you are welcomed by the family of the homestead in which you will be staying, and the head of the house then becomes your personal guide for the duration of your stay.",
+			"location": "Lesedi Cultural Village, Lanseria Road, Broederstroom, Hartbeespoort Dam, North West Province, South Africa",
+			"photos": {
+				"0": "https://www.sa-venues.com/attractions/gallery/northwest/145/1.jpg",
+				"1": "https://www.sa-venues.com/attractions/gallery/northwest/145/8.jpg"
+			}
+		}
+	]
 }
